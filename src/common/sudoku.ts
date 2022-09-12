@@ -1,4 +1,4 @@
-import { ListOfNine, Maybe } from "./interfaces";
+import { ListOfNine, Maybe } from './interfaces'
 
 export type Board = ListOfNine<ListOfNine<Cell>>
 

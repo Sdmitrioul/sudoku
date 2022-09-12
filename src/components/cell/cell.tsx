@@ -1,6 +1,7 @@
-export const Cell = () => {
+import React, { FC } from 'react'
 
-  return(
-    <div></div>
+export const Cell: FC = () => {
+  return (
+    <div>Hi</div>
   )
 }
